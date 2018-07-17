@@ -6,3 +6,5 @@ class Dog
     puts "This Dog is sitting"
   end
 end
+
+fido = Dog.new
