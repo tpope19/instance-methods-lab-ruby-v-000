@@ -1,11 +1,7 @@
 class Dog
-  def Bark
+  def bark
     puts "Woof!"
   end
-  def Sit
-    puts "This Dog is sitting"
-  end
 end
-
+ 
 fido = Dog.new
-fido.Bark
